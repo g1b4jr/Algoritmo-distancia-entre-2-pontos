@@ -36,11 +36,11 @@ printf("A DISTANCIA ENTRE VOCE E SEU PET EM METROS E DE = %.2f",distf);
 
 if (distf >=25)
 {
-	printf("\n SEU PET ESTA EM PERIGO");
+	printf("\n SEU PET ESTA EM PERIGO!");
 }
 else
 {
-	printf("\n SEU PET ESTA SEGURO");
+	printf("\n SEU PET ESTA SEGURO!");
 }
 
 return 0;
